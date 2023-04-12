@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container p{
+   margin-top: -35px;
+   margin-bottom: 30px;
+}
+
+.container h2{
+  color: green;
+}
+
+.btn-style2{
+  margin-left: 10px;
+}
+
+.main-content{
+  height: 350px;
+  width: 100%;
+  border: 1px solid #c8cfc8;
+  color:white;
+  margin-bottom: 30px;
+}
+
+
+
+
+
+
